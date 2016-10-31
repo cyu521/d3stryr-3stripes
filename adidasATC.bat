@@ -8,3 +8,4 @@ CALL Scripts\activate.bat
 
 python d3stryr-3stripes.py
   
+  pause
