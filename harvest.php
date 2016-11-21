@@ -1,6 +1,6 @@
 
     <?php
-     $siteKey = '6Le4AQgUAAAAAABhHEq7RWQNJwGR_M-6Jni9tgtA';
+     $siteKey = '6Lc4pgsUAAAAAM--DmKN94TLmRxf1UUwGuzKl2I7';
      $lang = 'en';
     ?>
      <?php if (isset($_POST['g-recaptcha-response'])): ?>
